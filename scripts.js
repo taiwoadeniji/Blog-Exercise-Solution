@@ -11,8 +11,8 @@ class Article {
           <dl>
             <dt>Title:</dt>
             <dd>${this.title}</dd>
-            
-            <dt>Article:</dt>
+
+            <dt>content:</dt>
             <dd>${this.content}</dd>
           </dl>
           `;
